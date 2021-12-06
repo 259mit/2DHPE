@@ -10,4 +10,6 @@ Hand Pose Estimation (HPE) is an important part of 3-D Hand Reconstruction and G
 
 ### Methodology
 
+The 2-D Hand Pose Estimation process can be divided into 2 parts: Preprocessing and Model Building & Training. Pre-processing involves projecting the 3-D points onto a 2-D plane. Model Building and Training is based on U-Net architecture and its modifications.
+
 
