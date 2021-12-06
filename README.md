@@ -12,4 +12,10 @@ Hand Pose Estimation (HPE) is an important part of 3-D Hand Reconstruction and G
 
 The 2-D Hand Pose Estimation process can be divided into 2 parts: Preprocessing and Model Building & Training. Pre-processing involves projecting the 3-D points onto a 2-D plane. Model Building and Training is based on U-Net architecture and its modifications.
 
+### Software:
+
+Both pre-processing and model building, and training have been done on python version 3.7. PyTorch library has been used to build the U-Nets. Custom dataset class and data loaders were created. The models have been trained using the NVIDIA Tesla -T4 GPUs (15 GB).
+
+### Dataset:
+
 
