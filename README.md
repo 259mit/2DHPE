@@ -18,5 +18,5 @@ Both pre-processing and model building, and training have been done on python ve
 
 ### Dataset:
 
-The FreiHAND [10] dataset consists of 32560 RGB images of the right hand showing various hand poses. These images are augmented with different background and scale, which results in the total dataset having 130240 images. There are 21 hand points in the dataset (figure 1).
+The FreiHAND dataset consists of 32560 RGB images of the right hand showing various hand poses. These images are augmented with different background and scale, which results in the total dataset having 130240 images. There are 21 hand points in the dataset.
 The dataset consists of masks of hands, a JSON file with the 3-D coordinates of the hand points. It also consists of an intrinsic camera K matrix that helps in deriving the 2-D coordinates of the points.
