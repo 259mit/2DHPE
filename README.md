@@ -14,7 +14,7 @@ The 2-D Hand Pose Estimation process can be divided into 2 parts: Preprocessing 
 
 ### Software:
 
-Both pre-processing and model building, and training have been done on python version 3.7. PyTorch library has been used to build the U-Nets. Custom dataset class and data loaders were created. The models have been trained using the NVIDIA Tesla -T4 GPUs (15 GB).
+Both pre-processing and model building, and training have been done on python version 3.7. [PyTorch](https://github.com/pytorch/pytorch) library has been used to build the U-Nets. Custom dataset class and data loaders were created. The models have been trained using the NVIDIA Tesla -T4 GPUs (15 GB).
 
 ### Dataset:
 
