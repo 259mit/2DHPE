@@ -1,4 +1,4 @@
-# 2DHPE
+# 2DHPE (2D Hand Pose Estimation)
 
 ### By Mithesh Ramachandran
 
